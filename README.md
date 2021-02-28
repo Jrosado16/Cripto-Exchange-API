@@ -1,4 +1,4 @@
-# cripto
+# Cripto API
 
 ## Project setup
 ```
@@ -15,10 +15,6 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### PRODUCTION
+See [sitio](https://cripto-api.netlify.app/).
